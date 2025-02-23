@@ -8,7 +8,7 @@ This is a simple Python-based income tax calculator for Pakistan, based on the 2
 3. Enter your annual income to see your tax amount.
 
 ## About
-This project was created to simplify tax calculations for individuals and businesses in Pakistan. For more financial tools and resources, visit https://taxcalculation.pk/income-tax-calculator-pakistan/.
+This project was created to simplify tax calculations for individuals and businesses in Pakistan. For more financial tools and resources, visit <a href= https://taxcalculation.pk/income-tax-calculator-pakistan/>.
 
 ## License
 This project is open-source and available under the MIT License.
